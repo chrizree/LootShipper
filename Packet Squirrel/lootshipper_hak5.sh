@@ -7,7 +7,7 @@
 # -----*********** >>>>>>>>>>>>>>      Hak5 device part      <<<<<<<<<<<<<< ***********-----
 #
 #
-# "Wade Wilson for president!"
+# "Wade Winston Wilson for president!"
 #
 #
 # And..... after the political announcement has been made, lets present the script.....
