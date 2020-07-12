@@ -20,7 +20,7 @@
 #
 # This script-set is based on the scenario that the Raspberry Pi collects loot and
 # produces a text based loot file. This loot file is transfered to the chosen
-# Hak5 device (in this case a Packer Squirrel in arming mode which is physically
+# Hak5 device (in this case a Packet Squirrel in arming mode which is physically
 # attached to the ethernet port of the Raspberry Pi) using scp. The scripts are
 # not bullet proof and are for sure in need of certain improval. But, it has been
 # created with the following in mind; "Don't let perfect get in the way of good enough".
