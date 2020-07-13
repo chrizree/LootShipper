@@ -7,11 +7,6 @@
 # -----*********** >>>>>>>>>>>>>>     Raspberry Pi part     <<<<<<<<<<<<<< ***********-----
 #
 #
-# "Wade Winston Wilson for president!"
-#
-#
-# And..... after the political announcement has been made, lets present the script.....
-#
 # The LootShipper bash script-set is used to get Raspberry Pi loot to Cloud C2 even
 # though there is no client support for the Raspberry Pi (yet).
 # But, Hak5 gear can be used as a broker to get loot to Cloud C2. This script (and
