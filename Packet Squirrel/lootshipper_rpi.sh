@@ -7,11 +7,6 @@
 # -----*********** >>>>>>>>>>>>>>     Raspberry Pi part     <<<<<<<<<<<<<< ***********-----
 #
 #
-# "Wade Winston Wilson for president!"
-#
-#
-# And..... after the political announcement has been made, lets present the script.....
-#
 # The LootShipper bash script-set is used to get Raspberry Pi loot to Cloud C2 even
 # though there is no client support for the Raspberry Pi (yet).
 # But, Hak5 gear can be used as a broker to get loot to Cloud C2. This script (and
@@ -29,7 +24,6 @@
 #
 # Raspberry Pi OS Lite and a Raspberry Pi Zero is enough to run these scripts,
 # although the RPi firepower depends on the loot gathering activities conducted.
-# A Raspberry Pi Zero may need some extra amps to pull the weight of the LAN Turtle
 #
 # This script assumes that ssh keys have been generated on the Raspberry Pi and
 # that the public key is copied to the Hak5 device, i.e. on the Raspberry Pi do
@@ -53,12 +47,6 @@
 #
 # The script is of course possible to use on any Linux based box (some tweaking may
 # be necessary), and not just the Raspberry Pi.
-#
-# ---------------------------------------------------------------------------------------
-#
-# Copyleft properties and all the money in the world belong to Chriz Ree (July 2020).
-#
-# ---------------------------------------------------------------------------------------
 
 
 # Get the current date and time to be used in log entries and to rename the loot file
