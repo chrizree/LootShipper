@@ -25,8 +25,11 @@
 # Raspberry Pi OS Lite and a Raspberry Pi Zero is enough to run these scripts,
 # although the RPi firepower depends on the loot gathering activities conducted
 #
+
 # This script assumes that ssh keys have been generated on the Raspberry Pi and
-# that the public key is copied to the Hak5 device, i.e. on the Raspberry Pi do:
+# that the public key is copied to the Hak5 device, i.e. on the Raspberry Pi do
+# the following but enter no password, I know..... but we're all into security
+# right :-)
 # ssh-keygen -t rsa
 # ssh-copy-id -i ~/.ssh/id_rsa.pub 172.16.84.1
 #
