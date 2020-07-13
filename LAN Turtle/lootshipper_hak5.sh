@@ -10,7 +10,7 @@
 # The LootShipper bash script-set is used to get Raspberry Pi loot to Cloud C2 even
 # though there is no client support for the Raspberry Pi (yet).
 # But, Hak5 gear can be used as a broker to get loot to Cloud C2. This script (and
-# the accompanying script on the chosen Hak5 device) needs to be adjusted according
+# the accompanying script on the Raspberry Pi) needs to be adjusted according
 # to the specific needs for the current scenario at hand.
 #
 # This script-set is based on the scenario that the Raspberry Pi collects loot and
