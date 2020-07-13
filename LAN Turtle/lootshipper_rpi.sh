@@ -46,11 +46,6 @@
 # The script is of course possible to use on any Linux based box (some tweaking may
 # be necessary), and not just the Raspberry Pi.
 #
-# ---------------------------------------------------------------------------------------
-#
-# Copyleft properties and all the money in the world belong to Chriz Ree (July 2020).
-#
-# ---------------------------------------------------------------------------------------
 
 
 # Get the current date and time to be used in log entries and to rename the loot file
